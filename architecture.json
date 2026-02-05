@@ -1,0 +1,160 @@
+{
+  "book_id": "classical_roman_naturalist_freedom_constraint",
+  "title": "The Leash of Rome",
+  "tagline": "In a city that binds every soul, one man must untangle a conspiracy that threatens the very nature of freedom.",
+  "target_words": 70000,
+  "actual_words": 82326,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "The Debt of Blood vs. The Debt of Coin",
+    "The Architecture of Power: Physical and Social Constraints",
+    "Natural Law vs. Human Law in the Roman World",
+    "The Individual as a System of Control"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Rain and the Debt",
+      "words": 3420
+    },
+    {
+      "ch": 2,
+      "title": "The Black Bean",
+      "words": 3400
+    },
+    {
+      "ch": 3,
+      "title": "The Ghost of Favonianus",
+      "words": 3300
+    },
+    {
+      "ch": 4,
+      "title": "The Senator's Shadow",
+      "words": 3500
+    },
+    {
+      "ch": 5,
+      "title": "The Subura's Grip",
+      "words": 3450
+    },
+    {
+      "ch": 6,
+      "title": "A Message in Blood",
+      "words": 3600
+    },
+    {
+      "ch": 7,
+      "title": "The Warehouse by the River",
+      "words": 3350
+    },
+    {
+      "ch": 8,
+      "title": "The Brotherhood of the Bean",
+      "words": 3700
+    },
+    {
+      "ch": 9,
+      "title": "The Labyrinth of Tiles",
+      "words": 3250
+    },
+    {
+      "ch": 10,
+      "title": "The Price of a Secret",
+      "words": 3400
+    },
+    {
+      "ch": 11,
+      "title": "Beneath the Baths",
+      "words": 3550
+    },
+    {
+      "ch": 12,
+      "title": "The Grain Dole's Truth",
+      "words": 3300
+    },
+    {
+      "ch": 13,
+      "title": "A Knife in the Forum",
+      "words": 3650
+    },
+    {
+      "ch": 14,
+      "title": "The Freedom of the Wolf",
+      "words": 3200
+    },
+    {
+      "ch": 15,
+      "title": "The Cage of Honour",
+      "words": 3450
+    },
+    {
+      "ch": 16,
+      "title": "The Shipment Revealed",
+      "words": 3800
+    },
+    {
+      "ch": 17,
+      "title": "The Choice of Livia",
+      "words": 3250
+    },
+    {
+      "ch": 18,
+      "title": "Fire on the Viminal",
+      "words": 3700
+    },
+    {
+      "ch": 19,
+      "title": "The Nature of a Leash",
+      "words": 3350
+    },
+    {
+      "ch": 20,
+      "title": "Confrontation at Tibur",
+      "words": 3600
+    },
+    {
+      "ch": 21,
+      "title": "The Cost of a Life",
+      "words": 3400
+    },
+    {
+      "ch": 22,
+      "title": "The Unbound City",
+      "words": 3500
+    },
+    {
+      "ch": 23,
+      "title": "The Last Debt",
+      "words": 3650
+    },
+    {
+      "ch": 24,
+      "title": "A Man, Nothing More, Nothing Less",
+      "words": 3550
+    }
+  ],
+  "entry_points": {
+    "story": [
+      "Write a scene where a minor character (a baker, a scribe, a bath attendant) observes Aquila and interprets his actions through the lens of their own constrained life.",
+      "Expand on the 'Brotherhood of the Bean'—who are they, what is their ritual, and what philosophy binds them?",
+      "Create a flashback scene to Aquila and Favonianus at the 'Bridge of Sorrows,' exploring the moment the debt of blood was incurred.",
+      "Write a monologue from the primary antagonist explaining their view of freedom and control, making their rationale compelling."
+    ],
+    "technical": [
+      "Build an interactive map of Rome (Viminal Hill, Subura, Emporium) tracking Aquila's movements and the key locations of the conspiracy.",
+      "Create a 'Constraint Engine' narrative tool that generates story branches based on character debts (blood, coin, honour) and the social layers of Roman society."
+    ]
+  },
+  "origin": {
+    "methodology": "Council-Prism Generation",
+    "sasi_score": 8,
+    "council": [
+      "Marcus Aurelius (Stoic Natural Law)",
+      "Émile Zola (Naturalist Determinism)",
+      "Fyodor Dostoevsky (Psychological Freedom)",
+      "Tacitus (Cynical Political Realism)"
+    ]
+  },
+  "cover_prompt": "A lone, weathered man in a simple Roman tunica strains against an unseen, metaphysical leash that manifests as intricate, glowing golden chains emerging from his very skin, his face a mask of determined anguish, set against the backdrop of a rain-slicked, oppressive Roman street at dusk, where the colossal, shadowy architecture of the Forum seems to lean in and bind the very air. The scene is rendered with the atmospheric, textural realism and profound psychological depth of a Rembrandt van Rijn painting, capturing the play of light on wet stone and the raw humanity of the struggle. The composition is a dramatic, tightly framed book cover, shot from a low angle to emphasize the towering architecture and the man's solitary defiance, his figure centered and monumental. The lighting is stark chiaroscuro, with a single, cold source illuminating the rain and the gleaming chains against deep umbra and burnt sienna shadows, the palette dominated by earthy ochres, muted umbers, and the unsettling, metallic gold of the constraints. masterpiece, best quality, ultra detailed, intricate details, professional composition, sharp focus, 8k resolution, flux dev"
+}
